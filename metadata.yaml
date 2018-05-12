@@ -1,0 +1,36 @@
+_repo: An-Old-Man-s-Love_25001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: 'An Old Man''s Love, Trollope''s brief, final novel, was published posthumously
+  in 1884. It concerns an admirable, middle-aged man, Mr. Whittlestaff, who loves
+  a woman half his age and loses her to a less admirable, younger man. The novel is
+  populated with Trollope''s humorous minor characters: Mr. Whittlestaff''s outspoken
+  yet loyal housekeeper, Mrs Baggett, her drunken husband, and the Hall household,
+  full of mirth and youth.'
+gutenberg_issued: '2008-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Middle-aged men -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Guardian and ward -- Fiction'
+title: An Old Man's Love
+url: http://www.gutenberg.org/ebooks/25001
